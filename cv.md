@@ -26,3 +26,9 @@
 * TypeScript;
 * React;
 * HitGub
+### Contacts for communication ###
+***
+* e-mail: ablovatskaja@gmail.com
+* location: Minsk
+* GitHub,  Codewars: An-life
+* Telephone:+375336778164
